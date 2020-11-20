@@ -1,2 +1,9 @@
 # router_check_tool
-Envoy router check tool container image
+
+Envoy [route table check tool](https://www.envoyproxy.io/docs/envoy/latest/operations/tools/route_table_check_tool.html) container image.
+
+```shell
+docker run --rm -v $pwd/examples:/examples cainelli/router_check_tool -c /examples -t /examples
+```
+
+-   [v1.15.x](https://github.com/cainelli/router_check_tool/tree/v1.15.x)
