@@ -7,3 +7,4 @@ docker run --rm -v $(pwd)/examples:/examples  cainelli/router_check_tool  -c exa
 ```
 
 -   [v1.15.x](https://github.com/cainelli/router_check_tool/tree/v1.15.x)
+-   [v1.16.x](https://github.com/cainelli/router_check_tool/tree/v1.16.x)
