@@ -12,3 +12,4 @@ docker run --rm -v $(pwd)/examples:/examples cainelli/router_check_tool \
 
 -   [v1.15.x](https://github.com/cainelli/router_check_tool/tree/v1.15.x)
 -   [v1.16.x](https://github.com/cainelli/router_check_tool/tree/v1.16.x)
+-   [v1.21.x](https://github.com/cainelli/router_check_tool/tree/v1.21.x)
